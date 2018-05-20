@@ -1,0 +1,152 @@
+body{
+background-image: url(../img/foto.jpg);
+opacity:2;
+background-position: top;
+background-size: 100%;
+background-repeat: no-repeat;
+font-size: 16px;
+font-family: 'Yanone', cursive;;
+}
+.icon{
+width: 45px;
+height: 35px;
+}
+big{
+font-family: 'Yanone', cursive;;
+}
+small{
+font-family:  'Yanone', sans-serif;
+}
+p{
+color: white;
+font-family:  'Yanone', sans-serif;	
+font-size: 16px;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+big{
+	font-size:1,5em;
+	color:white;
+	text-shadow:2px 0px 5px black;
+}
+small{
+	font-size:1,5em;
+	color:white;
+	text-shadow:2px 0px 5px black;
+}
+.container{
+	text-align: center;
+	margin-top:5%;
+	padding-top:2%;
+
+	border-radius:20px;
+	padding-right:2%;
+}
+.panel-body{
+	text-align: left;
+}
+.thumbnail{
+background-image: url(../img/foto.jpg);
+background-position: center;
+
+}
+.materias{
+	font-size: 16px;
+	font-family: 'Yanone', cursive, bold;
+	color: black;
+}
+.img-circle{
+opacity: 5;
+}
+.col-md-7{
+	background-image: url(../imgfoto.jpg);
+	background-position: center;
+}
+.panel-heading{
+	padding: 5%;
+}
+.letras{
+	font-size: 16px;
+	color: black; 
+}
+.titulo{
+	color: black;
+}
+.bla{
+	color: black;
+}
+
+.contenido{
+	background: linear-gradient(to bottom, #a8a8a8 0%,#eaeaea 100%);
+}
+
+.portada{
+	width: 100px;
+	height: 50px;
+	min-width:125px;
+	max-width: 125px;
+	max-height: 80px;
+	min-height: 80px;
+}
+
+#c1, #c2, #c3{
+	font-size: 3px;
+}
+
+#c1{
+	vertical-align: super;
+}
+
+#c3{
+	vertical-align: super;	
+}
+
+h1{
+	color: black;
+	text-shadow: 0px 0px 8px black, 0px 0px 15px black;
+}
+
+h1{
+	font-family: 'New Rocker', cursive;
+	font-size: 2em;
+	margin-bottom: 10px;
+}
+
+audio{
+	width: 100%;
+}
+
+.d2 .caption{
+	padding: 2px;
+}
+
+.page-header{
+	margin: 5px;
+	padding-bottom: 5px;
+}
+
+dl {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+/*.col-sm-4{
+	width: 20%;
+	margin-left: 4%;
+}*/
+
+.sombra{
+	box-shadow: 0px 0px 16px 4px #424242;	
+	background: #BDBDBD;
+}
+
+.dl-horizontal dt{
+	width: 70px;
+}
+
+.dl-horizontal dd{
+	margin-left: 30px;
+}
+}
